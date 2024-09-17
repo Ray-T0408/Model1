@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import umap
+import umap.umap_ as umap
 import ast
 import gensim
 from gensim import corpora, models
